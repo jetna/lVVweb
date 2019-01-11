@@ -1,0 +1,51 @@
+#body{
+    background-color: #ff6666;
+}
+
+#container{
+    background-color: plum;
+    margin: auto;
+    width: auto;
+    height: auto;
+    box-shadow: 10px 10px 8px #666;
+    padding: 5px;
+}
+
+#containerParaBotoes{
+   /* margin: auto;*/
+    background-color: aliceblue;
+    min-width: 50px;
+    min-height: 20px;
+    padding: 5px;
+}
+
+#containerBotao{
+    background-color: black;
+    padding: 3px;
+    min-width: 10px;
+    margin: auto;
+    float: left;
+}
+#containerBotao:hover{
+    background-color: plum;
+    padding: 3px;
+    min-width: 10px;
+    margin: auto;
+    float: left;
+}
+h2{
+    color: aliceblue;
+    text-transform: uppercase;
+    
+    
+}
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 10 de jan de 2019, 19:09:58
+    Author     : Jtna
+*/
+
